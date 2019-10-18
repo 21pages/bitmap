@@ -3,5 +3,8 @@
         <file>pic/calendar.png</file>
         <file>pic/calendar2.png</file>
         <file>pic/set.png</file>
+        <file>pic/user1.png</file>
+        <file>pic/user2.png</file>
+        <file>pic/user3.bmp</file>
     </qresource>
 </RCC>
